@@ -3,7 +3,7 @@
 ## GitHub Getting started
 In this course, you will learn how to use Github Successfully.
 
-### The basiscs
+### The basics
 -Understand the use of GitHub
 -Create Repositories
 -Work with Git and GitHub locally
