@@ -1,4 +1,4 @@
-# <a href='http://pluralsight.com'><img src='https//gillcleerenpluralsight.blob.core.windows.net/files/pluralsight.png' height='60' alt='pluralsight logo' /></a> Sample repo
+# <a href='http://pluralsight.com'><img src='https://content.pendo-cdn.pluralsight.com/awnWngBOIuIeQrIoo3UXPBigNBA/guide-media-d31c6b99-7a41-4c28-bddf-b5d5ea02ab16' height='60' alt='pluralsight logo' /></a> Sample repo
 
 ## GitHub Getting started
 In this course, you will learn how to use Github Successfully.
