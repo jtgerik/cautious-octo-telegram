@@ -2,7 +2,7 @@ Instructions for deploying this site to the server
 ----------------------------------------------
 blah blah blah blah blah
 
-Installation on Instructions
+Installation Instructions
 ----------------------------
 
 Content goes here
